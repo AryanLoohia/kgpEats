@@ -240,7 +240,7 @@ font-size: 6rem;
 
   @media(max-width:950px){
     .hero h1 {
-        font-size:2.4rem; font-weight:900;  letter-spacing:1px; text-transform:uppercase;  text-align:center; margin:auto; white-space:nowrap; padding-bottom:13px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:1.8rem; font-weight:900;  letter-spacing:1px; text-transform:uppercase;  text-align:center; margin:auto; white-space:nowrap; padding-bottom:13px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         color:white;
         
       }
